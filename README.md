@@ -28,7 +28,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 
-
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xjcr&show_icons=true&theme=radical)
 
 
 <!--
