@@ -31,7 +31,7 @@ Currently sharpening my skills in: DevOps, UI/UX, and animation libraries.
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)
 
-![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xjcr&show_icons=true&theme=dark)
+![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xjcr&show_icons=true&rank_icon=github&theme=dark)
 
 
 <!--
