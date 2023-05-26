@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer with a strong passion for creating interactive and engaging web experiences.
 
-Currently working on improving DevOps, UI/UX, and animation libraries.
+Currently sharpening my skills in: DevOps, UI/UX, and animation libraries.
 
 ###  Front End Stack
 
