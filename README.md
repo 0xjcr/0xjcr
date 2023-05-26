@@ -1,5 +1,6 @@
-### 
+### Hello there! 👋
 
+I'm a Full Stack Developer with a strong passion for creating interactive and engaging web experiences.
 
 ##  Tech Stack
 
