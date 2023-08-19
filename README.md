@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-I'm a Full Stack Developer with a strong passion for creating interactive and engaging web experiences.
+I'm a Full Stack Developer with a strong passion for creating interactive and engaging web and mobile experiences.
 
 Currently sharpening my skills in: DevOps, UI/UX, and animation libraries.
 
