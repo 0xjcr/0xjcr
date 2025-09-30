@@ -1,0 +1,148 @@
+<svg width="1280" height="800" viewBox="0 0 1280 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:1" />
+    </linearGradient>
+    
+    <style>
+      .text { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1280" height="800" fill="#0a0a0f"/>
+  
+  <!-- Section Title -->
+  <g class="text">
+    <rect x="60" y="40" width="4" height="32" fill="url(#accent)" rx="2"/>
+    <text x="80" y="68" font-size="32" font-weight="600" fill="#ffffff">🛠️ Technical Stack</text>
+  </g>
+  
+  <!-- Frontend Development -->
+  <g class="text">
+    <text x="60" y="140" font-size="21" font-weight="500" fill="#a78bfa">Frontend Development</text>
+    
+    <!-- Row 1 -->
+    <rect x="60" y="165" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="130" y="192" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">JavaScript</text>
+    
+    <rect x="212" y="165" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="282" y="192" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">TypeScript</text>
+    
+    <rect x="364" y="165" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="434" y="192" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">React</text>
+    
+    <rect x="516" y="165" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="586" y="192" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">React Native</text>
+    
+    <rect x="668" y="165" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="738" y="192" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Next.js</text>
+    
+    <rect x="820" y="165" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="890" y="192" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Angular</text>
+    
+    <rect x="972" y="165" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="1042" y="192" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Redux</text>
+    
+    <rect x="1124" y="165" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="1194" y="192" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">HTML5</text>
+    
+    <!-- Row 2 -->
+    <rect x="60" y="219" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="130" y="246" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">CSS3</text>
+    
+    <rect x="212" y="219" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="282" y="246" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Tailwind CSS</text>
+    
+    <rect x="364" y="219" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="434" y="246" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Material UI</text>
+    
+    <rect x="516" y="219" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="586" y="246" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Framer Motion</text>
+    
+    <rect x="668" y="219" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="738" y="246" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Expo</text>
+    
+    <rect x="820" y="219" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="890" y="246" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">p5.js</text>
+    
+    <rect x="972" y="219" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="1042" y="246" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Cypress</text>
+  </g>
+  
+  <!-- Backend Development -->
+  <g class="text">
+    <text x="60" y="335" font-size="21" font-weight="500" fill="#a78bfa">Backend Development</text>
+    
+    <!-- Row 1 -->
+    <rect x="60" y="360" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="130" y="387" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Node.js</text>
+    
+    <rect x="212" y="360" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="282" y="387" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Express.js</text>
+    
+    <rect x="364" y="360" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="434" y="387" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">PostgreSQL</text>
+    
+    <rect x="516" y="360" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="586" y="387" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">MongoDB</text>
+    
+    <rect x="668" y="360" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="738" y="387" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Supabase</text>
+    
+    <rect x="820" y="360" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="890" y="387" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Convex</text>
+    
+    <rect x="972" y="360" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="1042" y="387" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Vercel</text>
+    
+    <rect x="1124" y="360" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="1194" y="387" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Sequelize</text>
+    
+    <!-- Row 2 -->
+    <rect x="60" y="414" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="130" y="441" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Prisma</text>
+    
+    <rect x="212" y="414" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="282" y="441" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Jest</text>
+    
+    <rect x="364" y="414" width="140" height="42" fill="rgba(30, 27, 75, 0.4)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="8"/>
+    <text x="434" y="441" font-size="13.5" font-weight="500" fill="#d4d4d8" text-anchor="middle">Mocha</text>
+  </g>
+  
+  <!-- Divider -->
+  <defs>
+    <linearGradient id="divider" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgba(99, 102, 241, 0);stop-opacity:0" />
+      <stop offset="50%" style="stop-color:rgba(99, 102, 241, 0.3);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgba(99, 102, 241, 0);stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <line x1="60" y1="520" x2="1220" y2="520" stroke="url(#divider)" stroke-width="1"/>
+  
+  <!-- What I'm Working On -->
+  <g class="text">
+    <rect x="60" y="580" width="4" height="32" fill="url(#accent)" rx="2"/>
+    <text x="80" y="608" font-size="32" font-weight="600" fill="#ffffff">🌱 What I'm Working On</text>
+    
+    <!-- Container Box -->
+    <rect x="60" y="640" width="1160" height="120" fill="rgba(30, 27, 75, 0.3)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" rx="12"/>
+    
+    <!-- Item 1 -->
+    <text x="100" y="678" font-size="24">🔭</text>
+    <text x="145" y="678" font-size="16" fill="#d4d4d8">Building scalable full-stack applications</text>
+    
+    <!-- Item 2 -->
+    <text x="650" y="678" font-size="24">🌐</text>
+    <text x="695" y="678" font-size="16" fill="#d4d4d8">Exploring modern DevOps practices and CI/CD pipelines</text>
+    
+    <!-- Item 3 -->
+    <text x="100" y="728" font-size="24">🎨</text>
+    <text x="145" y="728" font-size="16" fill="#d4d4d8">Enhancing user experiences through thoughtful UI/UX design</text>
+    
+    <!-- Item 4 -->
+    <text x="650" y="728" font-size="24">✨</text>
+    <text x="695" y="728" font-size="16" fill="#d4d4d8">Creating smooth animations and micro-interactions</text>
+  </g>
+</svg>
